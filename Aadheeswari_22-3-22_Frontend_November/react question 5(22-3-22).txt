@@ -1,0 +1,6 @@
+5) What are the different phases of React component’s lifecycle?
+
+
+    => Mounting
+    => Updating
+    => Unmounting 

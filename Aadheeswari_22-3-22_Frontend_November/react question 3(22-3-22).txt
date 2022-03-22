@@ -1,0 +1,7 @@
+3) What are the limitations of React?
+
+
+     => React is not a full-blown framework as it is only a library.
+     => The components of React are numerous and will take time to fully grasp the benefits of all.
+     => It might be difficult for beginner programmers to understand React.
+     => Coding might become complex as it will make use of inline templating and JSX.

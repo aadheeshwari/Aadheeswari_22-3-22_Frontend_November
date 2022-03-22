@@ -1,0 +1,8 @@
+4) List out some of the major advantages of React?
+
+
+    => It increases the application’s performance
+    => It can be conveniently used on the client as well as server side
+    => Because of JSX, code’s readability increases
+    => React is easy to integrate with other frameworks like Meteor, Angular, etc
+    => Using React, writing UI test cases become extremely easy
